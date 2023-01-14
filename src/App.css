@@ -1,17 +1,17 @@
 footer{
-    background: var(--color-primary);
+    background:grey-800;
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
-    margin-top: 7rem;
+    margin-top: 6rem;
 }
 footer a{
-    color: var(--color-bg);
+    color: white;
 }
 .footer__logo{
     font-size: 2rem;
     font-weight: 500;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     display: inline-block;
 }
 .pernalinks{
@@ -26,11 +26,11 @@ footer a{
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 .footer__social a{
-    background: var(--color-bg);
-    color: var(--color-white);
+    
+    color: white;
     padding: 0.8rem;
     border-radius: 0.7rem;
     display: flex;
@@ -44,8 +44,8 @@ footer a{
 
 }
 .footer__copyright{
-    margin-bottom: 4rem;
-    color: var(--color-bg);
+    margin-bottom: 1rem;
+    color: white;
 
 }
 
