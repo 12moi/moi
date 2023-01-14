@@ -20,8 +20,9 @@ export default function Projects() {
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
             <a
-              href={project.link}
+              href={project.link} 
               key={project.image}
+            //   target='_blank' rel="noreferrer"
               className="sm:w-1/2 w-100 p-4">
               <div className="flex relative">
                 <img
@@ -37,11 +38,15 @@ export default function Projects() {
                     {project.title}
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
+                 
                 </div>
+                
               </div>
+              
             </a>
           ))}
         </div>
+        
       </div>
     </section>
   );
