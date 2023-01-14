@@ -1,35 +1,35 @@
 export const projects = [
     {
       title: "Quiz App",
-      subtitle: "MERN Stack",
+      subtitle: "Javascript and API",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "This is a simple javascript quiz page that allow the user to answer the questions according to the categories. ",
+      image: "./assets/images/quiz.png",
+      link: "12moi.github.io/quiz/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Weather",
+      subtitle: "HTML and CSS",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reactbootcamp.com",
+        " This is a simple javascript weather page that shows the weather of a city",
+      image: "./assets/images/weather.png",
+      link: "weatherm.netlify.app/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Hacker news",
+      subtitle: "React and API",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://reactbootcamp.com",
+        "This is a news app that display any articles searched",
+      image: "./assets/images/news.png",
+      link: "hacker-black.vercel.app/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Github username",
+      subtitle: "React and Typescript",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://reactbootcamp.com",
+        " A simple web app that displays github username information",
+      image: "./assets/images/username.png",
+      link: "github-usermo.netlify.app/",
     },
   ];
   
@@ -37,9 +37,11 @@ export const projects = [
   
   export const skills = [
     "JavaScript",
+    "CSS",
+    "HTML",
     "React",
     "Angular",
-    "Node",
-    "GraphQL",
-    "Material UI",
+    "Typescript",
+    "Python",
+    "Django",
   ];
