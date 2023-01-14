@@ -1,7 +1,7 @@
 import React from "react";
 import '../App.css'
 import {BsInstagram} from 'react-icons/bs'
-import {GrTwitter} from 'react-icons/gr'
+import {GrLinkedin, GrTwitter} from 'react-icons/gr'
 
 export default function Footer() {
   return (
@@ -16,8 +16,8 @@ export default function Footer() {
       <li><a href='#contact'>Contact</a></li>
     </ul>
     <div className='footer__social'>
-      
-      <a href='https://twitter.com'><GrTwitter/></a>
+    <a href='https://www.linkedin.com/in/moishadrack/'><GrLinkedin/></a>
+      <a href='https://twitter.com/home'><GrTwitter/></a>
       <a href='https://instagram.com'><BsInstagram/></a>
       
     </div>
