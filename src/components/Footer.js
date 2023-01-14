@@ -1,7 +1,7 @@
 import React from "react";
 import '../App.css'
 import {BsInstagram} from 'react-icons/bs'
-import {GrLinkedin, GrTwitter} from 'react-icons/gr'
+import {GrGithub, GrLinkedin, GrTwitter} from 'react-icons/gr'
 
 export default function Footer() {
   return (
@@ -19,7 +19,7 @@ export default function Footer() {
     <a href='https://www.linkedin.com/in/moishadrack/'><GrLinkedin/></a>
       <a href='https://twitter.com/home'><GrTwitter/></a>
       <a href='https://instagram.com'><BsInstagram/></a>
-      
+      <a href='https://github.com/12moi/'><GrGithub/></a>
     </div>
     <div className='footer__copyright'>
       <small>
