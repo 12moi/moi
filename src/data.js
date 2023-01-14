@@ -44,4 +44,5 @@ export const projects = [
     "Typescript",
     "Python",
     "Django",
+    "Git",
   ];
