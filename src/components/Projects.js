@@ -14,9 +14,7 @@ export default function Projects() {
             Websites  I have Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Below are the projects I have built using the Skills and technologies I have learnt.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
