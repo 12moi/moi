@@ -3,6 +3,10 @@
 ## Description
 This is a personal portfolio website built using Javascript Library react 
 
+## Screenshot
+![Alt text](/src/assets/images/home.png?raw=true "Home page")
+
+
 ## How to Install and Run Grocery App
 For contribution to this you can fork or clone it then run npm  install to install  dependencies.
 ## Licence
