@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moi/static/css/main.b338b342.css",
+    "main.js": "/moi/static/js/main.76b628b1.js",
+    "static/js/787.c7254265.chunk.js": "/moi/static/js/787.c7254265.chunk.js",
+    "static/media/CV.pdf": "/moi/static/media/CV.694d6f21df81d1ab5c9d.pdf",
+    "index.html": "/moi/index.html",
+    "main.b338b342.css.map": "/moi/static/css/main.b338b342.css.map",
+    "main.76b628b1.js.map": "/moi/static/js/main.76b628b1.js.map",
+    "787.c7254265.chunk.js.map": "/moi/static/js/787.c7254265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b338b342.css",
+    "static/js/main.76b628b1.js"
+  ]
+}
